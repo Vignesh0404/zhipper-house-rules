@@ -30,8 +30,7 @@ Last updated on 10/08/2023. Thank you for choosing Zhipper. This Privacy Policy 
 
 <h3>Your choices</h3>
 <p><b>a. Account Information:</b> You may update or delete your account information within the App settings.</p>
-<p><b>b. Communication Preferences:</b> You can choose to opt out of non-transactional communications from us.</p>
-<p><b>c. Cookies and Similar Technologies:</b> You can manage your preferences for cookies and similar technologies through your browser settings.</p>
+<p><b>b. Listing Information:</b> You can always delete all the data/listings entered by you without deleting your account.</p>
 
 <h3>Changes to this Privacy Policy</h3>
 <p>We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes to this Privacy Policy by posting a notice on the App or sending an email.</p>
