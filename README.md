@@ -1,6 +1,6 @@
 # Zhipper-house-rules & support
 
-It's cool to be kind - Here we treat everyone with respect and kindness. We do not tolerate bullying, harassment, or hate speech. We are a community of students who are here to help each other.
+It's cool to be kind - Here we treat everyone with respect and kindness. We do not tolerate bullying, harassment, or hate speech. We are a community of students who are here to help each other. Questions? Reach out to noreply.zhipper@gmail.com
 <br>
 <h2>Privacy policy</h2>
 Last updated on 10/08/2023. Thank you for choosing Zhipper. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our marketplace platform for college students. By accessing or using the App, you consent to the practices described in this Privacy Policy. Our goal is to be transparent regarding what information we do and do not have access to and where this information is shared, so before we begin, we would like to emphasize the following: <br><br>
