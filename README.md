@@ -1,4 +1,4 @@
-# Zhipper-house-rules
+# Zhipper-house-rules & support
 
 It's cool to be kind - Here we treat everyone with respect and kindness. We do not tolerate bullying, harassment, or hate speech. We are a community of students who are here to help each other.
 <br>
@@ -7,7 +7,7 @@ Last updated on 10/08/2023. Thank you for choosing Zhipper. This Privacy Policy 
 
 ***Zhipper does not, and will never, sell your personal information to third parties.***
 
-***Zhipper is not currently affiliated with any school or education institution, and Zhipper will never disclose your identity or anonymous posts unless required by law or to law enforcement to ensure the safety of our communities.***
+***Zhipper is not currently affiliated with any school or educational institution, and Zhipper will never disclose your identity or anonymous posts unless required by law or to law enforcement to ensure the safety of our communities.***
 
 <h3>Information we collect</h3>
 <p><b>a. Personal Information:</b> When you register an account with Zhipper, we may collect personal information such as your name, email address, phone number, and profile picture.</p>
@@ -17,7 +17,7 @@ Last updated on 10/08/2023. Thank you for choosing Zhipper. This Privacy Policy 
 <p><b>a. Notifications:</b> We request permission to send you notifications for new messages, updates, and other relevant information.</p>
 <p><b>b. Camera:</b> We request permission to access your camera to take photos for your profile picture and listings.</p>
 <p><b>c. Photos:</b> We request permission to access your photos to upload images for your profile picture and listings.</p>
-<p><b>d. Microphone:</b> We request permission to access your microphone to record audio to enable Speech to Text accessibility feature, on request.</p>
+<p><b>d. Microphone:</b> We request permission to access your microphone to record audio to enable the Speech to Text accessibility feature, on request.</p>
 
 <h3>How we use your information</h3>
 <p><b>a. Provide and Improve the App:</b> We use your information to operate, maintain, and enhance the functionality of the App. This includes personalizing your experience, suggesting relevant content, and improving our services based on user feedback.</p>
@@ -33,10 +33,10 @@ Last updated on 10/08/2023. Thank you for choosing Zhipper. This Privacy Policy 
 <p><b>b. Listing Information:</b> You can always delete all the data/listings entered by you without deleting your account.</p>
 
 <h3>Changes to this Privacy Policy</h3>
-<p>We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes to this Privacy Policy by posting a notice on the App or sending an email.</p>
+<p>We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes to this Privacy Policy by posting a notice on the App or emailing.</p>
 
 <h3>Contact us</h3>
-<p>If you have any questions, concerns, or requests regarding this Privacy Policy or our practices, please contact us at <a href="noreply.zhipper@gmail.com">noreply.zhipper@gmail.com</a>. By using the App, you acknowledge that you have read and understood this Privacy Policy. Thank you for trusting Zhipper. We are committed to protecting your privacy and providing a safe and enjoyable marketplace experience for college students.</p>
+<p>If you have any questions, concerns, or requests regarding this Privacy Policy or our practices, please get in touch with us at <a href="noreply.zhipper@gmail.com">noreply.zhipper@gmail.com</a>. Using the App, you acknowledge that you have read and understood this Privacy Policy. Thank you for trusting Zhipper. We are committed to protecting your privacy and providing a safe and enjoyable marketplace experience for college students.</p>
 <br>
 <h2>Terms & Conditions</h2>
 
@@ -81,4 +81,4 @@ Last updated on 10/08/2023. Thank you for choosing Zhipper. These Terms of Use g
 <p>These Terms shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law principles.</p>
 
 <h3>Contact us</h3>
-<p>If you have any questions or concerns regarding these Terms, please contact us at noreply.zhipper@gmail.com. Thank you for using Zhipper. We strive to provide a safe and reliable marketplace platform for college students, and we appreciate your compliance with these Terms of Use.</p>
+<p>If you have any questions or concerns regarding these Terms, don't hesitate to get in touch with us at noreply.zhipper@gmail.com. Thank you for using Zhipper. We strive to provide a safe and reliable marketplace platform for college students, and we appreciate your compliance with these Terms of Use.</p>
